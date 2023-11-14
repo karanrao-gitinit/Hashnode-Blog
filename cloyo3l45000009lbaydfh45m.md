@@ -4,6 +4,7 @@ seoTitle: "Short guide to learn Git and GitHub"
 datePublished: Tue Nov 14 2023 18:29:10 GMT+0000 (Coordinated Universal Time)
 cuid: cloyo3l45000009lbaydfh45m
 slug: guide-to-learn-git-and-github-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wX2L8L-fGeA/upload/7caab7d6b6a4fc7a282caf8dfb6f0038.jpeg
 tags: github, git, version-control-systems
 
 ---
@@ -88,7 +89,7 @@ Open the [Link (Click me 🌐)](https://git-scm.com/downloads), it will redirect
     
     And Done, Congratulations you have created your first Repository on GitHub.
     
-    But your repository is still empty click on **README** to create a readme.md file (markdown format file), you can describe about the repository, then click on the `commit changes` button to apply changes.
+    But your repository is still empty click on **README** to create a readme.md file (markdown format file), you can describe the repository, then click on the `commit changes` button to apply changes.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699985729558/30365192-a9d0-4251-853b-60ddff3bd43d.png align="center")
     
@@ -97,4 +98,7 @@ Open the [Link (Click me 🌐)](https://git-scm.com/downloads), it will redirect
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699986298177/87ae51d9-2725-4a09-b256-fede991173f7.png align="center")
     
 
-If you have reached till this part
+If you have reached this point congratulations you have reached the end of this blog, In conclusion, you have learned about the soul of Git "THE Version Control System", how it helps developers and its main purpose. Installation of Git on a Local machine, setting up a GitHub account and creating a new repository.  
+For the next part, I will demonstrate How to connect your local machine to GitHub servers, basic git commands to add, remove, and track changes, create new isolated copies of your existing repository, merge them later, and solve merge conflicts.  
+  
+See you all in the next part.

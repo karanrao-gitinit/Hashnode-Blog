@@ -4,7 +4,8 @@ seoTitle: "Short guide to learn Git and GitHub"
 datePublished: Tue Nov 14 2023 18:29:10 GMT+0000 (Coordinated Universal Time)
 cuid: cloyo3l45000009lbaydfh45m
 slug: guide-to-learn-git-and-github-part-1
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wX2L8L-fGeA/upload/7caab7d6b6a4fc7a282caf8dfb6f0038.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700039714501/7cf78c2c-9b43-4d73-a7f4-c81998320b0c.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700039745338/be63977f-c262-448f-a259-f856e5eb8340.png
 tags: github, git, version-control-systems
 
 ---

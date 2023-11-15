@@ -1,8 +1,11 @@
 ---
 title: "Guide to learn Git and GitHub, Part - 2"
+seoTitle: "Guide to learn Git and GitHub"
 datePublished: Wed Nov 15 2023 18:20:10 GMT+0000 (Coordinated Universal Time)
 cuid: clp037vgz000009ju8xscbdv4
 slug: guide-to-learn-git-and-github-part-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700072562833/7252ffb3-c366-4bc3-835d-c72093f8337e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700072716018/60b12857-ae2b-4382-b26b-c25c1bd531d7.png
 tags: 2articles1week
 
 ---
@@ -163,4 +166,5 @@ You can see the output on the terminal describes the conflicts related to a file
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700071348845/af8a7e95-ca13-4e13-bf1a-eb36366b0a49.gif align="center")
     
-    And you are done for the day. Congratulations on learning the Basics of Git now you are ready to get your hands dirty on Git and GitHub. You also use GitHub to host your own website but that is something I want my readers to explore and remember, Git is just
+    And you are done for the day. Congratulations on learning the Basics of Git now you are ready to get your hands dirty on Git and GitHub. You also use GitHub to host your website but that is something I want my readers to explore and remember Git is just another skill you have to practice more to understand its use cases and commands.  
+    That's all for this blog meet you in the next one.
